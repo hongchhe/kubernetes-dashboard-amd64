@@ -15,10 +15,10 @@ docker tag hongchhe/kubernetes-dashboard-amd64:v1.8.0 gcr.io/google_containers/k
 docker rmi hongchhe/kubernetes-dashboard-amd64:v1.8.0
 ```
 
-* run the following to get gcr.io/google_containers/kubernetes-dashboard-amd64:v1.8.1
+* run the following to get k8s.gcr.io/kubernetes-dashboard-amd64:v1.8.1
 ```
 docker pull hongchhe/kubernetes-dashboard-amd64:v1.8.1
-docker tag hongchhe/kubernetes-dashboard-amd64:v1.8.1 gcr.io/google_containers/kubernetes-dashboard-amd64:v1.8.1
+docker tag hongchhe/kubernetes-dashboard-amd64:v1.8.1 k8s.gcr.io/kubernetes-dashboard-amd64:v1.8.1
 docker rmi hongchhe/kubernetes-dashboard-amd64:v1.8.1
 ```
 * run the following to get gcr.io/google_containers/kubernetes-dashboard-amd64:v1.8.3

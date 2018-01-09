@@ -1,5 +1,5 @@
-# k8s-dns-sidecar-amd64
-gcr.io/google_containers/k8s-dns-sidecar-amd64
+# kubernetes-dashboard-amd64
+gcr.io/google_containers/kubernetes-dashboard-amd64
 
 * run the following to get gcr.io/google_containers/kubernetes-dashboard-amd64:v1.7.1
 ```
